@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Autorom Type of Web podoba się Buddy 👏
+          Autorom Type of Web podoba się Buddy <span role="img" aria-label="">👏</span>
         </p>
         <a
           className="App-link"
