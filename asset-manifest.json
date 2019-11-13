@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/typeofweb-buddy/static/css/main.b100e6da.chunk.css",
+    "main.js": "/typeofweb-buddy/static/js/main.1093a75f.chunk.js",
+    "main.js.map": "/typeofweb-buddy/static/js/main.1093a75f.chunk.js.map",
+    "runtime-main.js": "/typeofweb-buddy/static/js/runtime-main.fe31ac1c.js",
+    "runtime-main.js.map": "/typeofweb-buddy/static/js/runtime-main.fe31ac1c.js.map",
+    "static/js/2.e26835c8.chunk.js": "/typeofweb-buddy/static/js/2.e26835c8.chunk.js",
+    "static/js/2.e26835c8.chunk.js.map": "/typeofweb-buddy/static/js/2.e26835c8.chunk.js.map",
+    "index.html": "/typeofweb-buddy/index.html",
+    "precache-manifest.612099563ffcb92eb22faa50c78b8d39.js": "/typeofweb-buddy/precache-manifest.612099563ffcb92eb22faa50c78b8d39.js",
+    "service-worker.js": "/typeofweb-buddy/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/typeofweb-buddy/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/typeofweb-buddy/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe31ac1c.js",
+    "static/js/2.e26835c8.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.1093a75f.chunk.js"
+  ]
+}
